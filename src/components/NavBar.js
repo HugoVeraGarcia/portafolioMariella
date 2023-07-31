@@ -199,7 +199,7 @@ const NavBar = () => {
             />
             <CustomMobileLink
               href="/articles"
-              title="Articles"
+              title="Photos"
               className=""
               toggle={handleClick}
             />
